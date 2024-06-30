@@ -7,6 +7,8 @@ Back-end: PHP, MySQL
 Server: Apache
 Version Control: Git
 
+Preview
+![image](https://github.com/mukhametzhan-dev/advanced_crud_php/assets/128323894/b417d2ba-bfa8-4058-84f3-8df3fd761561)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
